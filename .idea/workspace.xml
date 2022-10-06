@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b7b2831f-e40d-4926-af72-492529aa335c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/ReactProjects/blog_app/client/src/img",
+    "last_opened_file_path": "D:/ReactProjects/blog_app/screenshots",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,6 +53,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ReactProjects\blog_app\screenshots" />
       <recent name="D:\ReactProjects\blog_app\client\src\img" />
       <recent name="D:\ReactProjects\blog_app\api\controllers" />
       <recent name="D:\ReactProjects\blog_app\api\routes" />
@@ -72,7 +74,7 @@
       <workItem from="1664778637632" duration="19798000" />
       <workItem from="1664862724625" duration="785000" />
       <workItem from="1664965484284" duration="9166000" />
-      <workItem from="1665030862769" duration="23425000" />
+      <workItem from="1665030862769" duration="24358000" />
     </task>
     <servers />
   </component>
